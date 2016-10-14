@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/starkwang/react-redux-es6-quickstart.git"
+    "url": "git+https://github.com/hekui/react-redux-es6.git"
   },
-  "author": "starkwang",
+  "author": "hekui",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/starkwang/react-redux-es6-quickstart/issues"
+    "url": "https://github.com/hekui/react-redux-es6/issues"
   },
-  "homepage": "https://github.com/starkwang/react-redux-es6-quickstart#readme"
+  "homepage": "https://github.com/hekui/react-redux-es6"
 }
